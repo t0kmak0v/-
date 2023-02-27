@@ -19,7 +19,8 @@ namespace Какаев_и_Бобков
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            label1.Text = "Bobkov LoH";
+            
         }
     }
 }
